@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-17T05:29:12.196Z",
+  "updatedAt": "2026-09-17T05:29:36.177Z",
   "problems": [
     {
       "frontendId": "2",
@@ -23,6 +23,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.java",
           "sha": "8713d86e1f789e122fc0d2b59197621aa53a7b4f",
           "lastSyncedAt": "2026-09-17T05:28:14.973Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "62",
+      "title": "Unique Paths",
+      "slug": "unique-paths",
+      "problemName": "0062-unique-paths",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+      "folderPath": "0062-unique-paths/",
+      "readmePath": "0062-unique-paths/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0062-unique-paths.java",
+          "path": "0062-unique-paths/0062-unique-paths.java",
+          "sha": "1b6d9e321f5694cdcca5a4da0e77102d7764fe34",
+          "lastSyncedAt": "2026-09-17T05:29:36.177Z"
         }
       ]
     },
