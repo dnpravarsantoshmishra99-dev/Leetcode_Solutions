@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-17T05:30:49.177Z",
+  "updatedAt": "2026-09-17T05:30:55.641Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,6 +183,26 @@
           "path": "0378-kth-smallest-element-in-a-sorted-matrix/0378-kth-smallest-element-in-a-sorted-matrix.java",
           "sha": "086b9d43e8a79c0e5ac2690956939f73c0c8d8b3",
           "lastSyncedAt": "2026-09-17T05:30:12.386Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "problemName": "0704-binary-search",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-search/",
+      "folderPath": "0704-binary-search/",
+      "readmePath": "0704-binary-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0704-binary-search.java",
+          "path": "0704-binary-search/0704-binary-search.java",
+          "sha": "52d3abb9331fa3d17d058d3301ed0a3d72912251",
+          "lastSyncedAt": "2026-09-17T05:30:55.641Z"
         }
       ]
     }
