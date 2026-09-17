@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "divide-and-conquer",
+    "name": "Divide and Conquer"
+  },
+  "updatedAt": "2026-09-17T05:28:44.771Z",
+  "problems": [
+    {
+      "frontendId": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "problemName": "0023-merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "folderPath": "0023-merge-k-sorted-lists/",
+      "readmePath": "0023-merge-k-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0023-merge-k-sorted-lists.java",
+          "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.java",
+          "sha": "5604bd89257b0696573b78023b233546221e7de0",
+          "lastSyncedAt": "2026-09-17T05:28:44.771Z"
+        }
+      ]
+    }
+  ]
+}
