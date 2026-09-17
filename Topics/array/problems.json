@@ -4,8 +4,28 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-17T05:29:46.826Z",
+  "updatedAt": "2026-09-17T05:30:04.990Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0001-two-sum.java",
+          "path": "0001-two-sum/0001-two-sum.java",
+          "sha": "19971a6b19997710c97cfbfa2e966ebff0a869d2",
+          "lastSyncedAt": "2026-09-17T05:30:04.990Z"
+        }
+      ]
+    },
     {
       "frontendId": "16",
       "title": "3Sum Closest",
