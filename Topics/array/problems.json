@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-17T05:30:28.762Z",
+  "updatedAt": "2026-09-17T05:30:49.177Z",
   "problems": [
     {
       "frontendId": "1",
@@ -63,6 +63,26 @@
           "path": "0027-remove-element/0027-remove-element.java",
           "sha": "80845885f2454e97c7b47220ab67791023c4c789",
           "lastSyncedAt": "2026-09-17T05:29:03.870Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "0035-search-insert-position/",
+      "readmePath": "0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0035-search-insert-position.java",
+          "path": "0035-search-insert-position/0035-search-insert-position.java",
+          "sha": "5b4889a5340811cf262e5425a8ee248d2a7ab024",
+          "lastSyncedAt": "2026-09-17T05:30:49.177Z"
         }
       ]
     },
