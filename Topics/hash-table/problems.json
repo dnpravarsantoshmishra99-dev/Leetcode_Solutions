@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table"
+  },
+  "updatedAt": "2026-09-17T05:29:18.156Z",
+  "problems": [
+    {
+      "frontendId": "41",
+      "title": "First Missing Positive",
+      "slug": "first-missing-positive",
+      "problemName": "0041-first-missing-positive",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+      "folderPath": "0041-first-missing-positive/",
+      "readmePath": "0041-first-missing-positive/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0041-first-missing-positive.java",
+          "path": "0041-first-missing-positive/0041-first-missing-positive.java",
+          "sha": "288df7eecd72d874c470df82a0c2cd0538f80147",
+          "lastSyncedAt": "2026-09-17T05:29:18.156Z"
+        }
+      ]
+    }
+  ]
+}
