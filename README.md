@@ -63,3 +63,15 @@ Contains topicwise list of solved problems.
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dnpravarsantoshmishra99-dev/Leetcode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dnpravarsantoshmishra99-dev/Leetcode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+<!---LeetCode Topics End-->
