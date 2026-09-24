@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T05:22:53.066Z",
+  "updatedAt": "2026-09-24T05:27:17.370Z",
   "problems": [
     {
       "frontendId": "5",
@@ -23,6 +23,26 @@
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.java",
           "sha": "896d388acf5ce3fe80c275cc8f11b7e8f5e93155",
           "lastSyncedAt": "2026-09-17T05:28:26.493Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "0014-longest-common-prefix/",
+      "readmePath": "0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0014-longest-common-prefix.java",
+          "path": "0014-longest-common-prefix/0014-longest-common-prefix.java",
+          "sha": "68fcca7cd55ff2edbf79ae502bd17b697b19ca9b",
+          "lastSyncedAt": "2026-09-24T05:27:17.370Z"
         }
       ]
     },
