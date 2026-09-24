@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 11 | 8 | 2 |
+| 22 | 12 | 8 | 2 |
 
 ## Activity
 
@@ -21,28 +21,28 @@ Contains topicwise list of solved problems.
 | 2026-09-05 | 2 |
 | 2026-09-10 | 2 |
 | 2026-09-15 | 12 |
-| 2026-09-24 | 1 |
+| 2026-09-24 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 62% |
-| Math | 7 | 33% |
-| Binary Search | 5 | 24% |
-| Two Pointers | 5 | 24% |
+| Array | 14 | 64% |
+| Math | 7 | 32% |
+| Binary Search | 5 | 23% |
+| Two Pointers | 5 | 23% |
+| String | 4 | 18% |
 | Hash Table | 3 | 14% |
 | Sorting | 3 | 14% |
-| String | 3 | 14% |
-| Bit Manipulation | 2 | 10% |
-| Dynamic Programming | 2 | 10% |
-| Heap (Priority Queue) | 2 | 10% |
+| Bit Manipulation | 2 | 9% |
+| Dynamic Programming | 2 | 9% |
+| Heap (Priority Queue) | 2 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 13 |
+| [Array](Topics/array/) | 14 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
@@ -62,8 +62,9 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 3 |
+| [String](Topics/string/) | 4 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
+| [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 5 |
 <!---LeetHub Summary End-->
 
