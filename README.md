@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 12 | 8 | 2 |
+| 23 | 13 | 8 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 7 |
+| 1 days | 1 days | 8 |
 
 | Date | Problems |
 | --- | ---: |
@@ -22,18 +22,19 @@ Contains topicwise list of solved problems.
 | 2026-09-10 | 2 |
 | 2026-09-15 | 12 |
 | 2026-09-24 | 2 |
+| 2026-09-29 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 64% |
-| Math | 7 | 32% |
-| Binary Search | 5 | 23% |
-| Two Pointers | 5 | 23% |
-| String | 4 | 18% |
-| Hash Table | 3 | 14% |
-| Sorting | 3 | 14% |
+| Array | 14 | 61% |
+| Math | 7 | 30% |
+| Two Pointers | 6 | 26% |
+| Binary Search | 5 | 22% |
+| String | 5 | 22% |
+| Hash Table | 3 | 13% |
+| Sorting | 3 | 13% |
 | Bit Manipulation | 2 | 9% |
 | Dynamic Programming | 2 | 9% |
 | Heap (Priority Queue) | 2 | 9% |
@@ -62,10 +63,10 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 5 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
 
 <!---LeetCode Topics Start-->
